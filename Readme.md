@@ -1,5 +1,2 @@
 # Git-Course
-
-Este é um teste
-TESTE
-TESTE
+Este é um teste de commit do curso de Git e GitHub
